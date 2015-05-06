@@ -3,8 +3,8 @@ Dockerfile.nanorc
 
 Dockerfile syntax highlighting for nano
 
-## Installation
-
+Installation
+------------
 1. Create a `nano` directory in `/usr/local/share/`
  * `mkdir /usr/local/share/nano`
 

@@ -1,5 +1,4 @@
 ## Syntax highlighting for Dockerfiles
-## /usr/share/nano/docker.nanorc
 syntax "Dockerfile" "Dockerfile[^/]*$"
 
 ## Keywords
